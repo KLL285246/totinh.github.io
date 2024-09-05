@@ -137,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://kl0224.github.io/kiniem.github.io/";
+            window.location = "https://kll285246.github.io/KLL.github.io/";
           },
         });
       }
